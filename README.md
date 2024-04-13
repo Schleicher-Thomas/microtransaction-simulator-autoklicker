@@ -1,29 +1,32 @@
 # microtransaction-simulator-autoklicker
 
 this project is not finished yet, but the script works fine when running the game on a 108ß primary monitor
+development might be as slow as a snail climbing mount everest
 
 ## Description
 
-Here is the Steam Guide to this autoclicker 
-https://steamcommunity.com/sharedfiles/filedetails/?id=3220589966
+Are you tired of clicking and clicking? Have you already developed carpal tunnel syndrome from opening cards for 4 hours?
 
-Let people know what your project can do specifically. Provide context and add a link to any reference visitors might be unfamiliar with. A list of Features or a Background subsection can also be added here. If there are alternatives to your project, this is a good place to list differentiating factors.
+This simple script buys new cards and opens them for you.
 
 ## Visuals
 
-https://steamuserimages-a.akamaihd.net/ugc/2465232740253695088/D26B8343C7097ACD4009D466BEFE6FC77520E1A1/
-
 ## Installation
-Within a particular ecosystem, there may be a common way of installing things, such as using Yarn, NuGet, or Homebrew. However, consider the possibility that whoever is reading your README is a novice and would like more guidance. Listing specific steps helps remove ambiguity and gets people to using your project as quickly as possible. If it only runs in a specific context like a particular programming language version or operating system or has dependencies that have to be installed manually, also add a Requirements subsection.
+you need to install python and pynput on your computer to run this script
 
 ## Usage
-Use examples liberally, and show the expected output if you can. It's helpful to have inline the smallest example of usage that you can demonstrate, while providing links to more sophisticated examples if they are too long to reasonably include in the README.
+to run the file you have type "autoklicker.py" into your Windows terminal and then press 'w'
 
 ## Support
-Tell people where they can go to for help. It can be any combination of an issue tracker, a chat room, an email address, etc.
+the button coordinates are coded for your primary monitor to have 1080p
+you can adjust the button coordinates yourself if you have a different screen resolution
+to find your own button coordinates you can just make a screenshot of the game and open it in paint
+the current mouse coordinates are displayed in the bottom left corner
+
+If you have any questions, hit me up
 
 ## Roadmap
-If you have ideas for releases in the future, it is a good idea to list them in the README.
+not yet planned, maybe I'll fix typos in this readme, but tbh this is just a quick little project for personal usage, and nothing to showcase
 
 ## Contributing
 State if you are open to contributions and what your requirements are for accepting them.
@@ -36,7 +39,7 @@ You can also document commands to lint the code or run tests. These steps help t
 Show your appreciation to those who have contributed to the project.
 
 ## License
-For open source projects, say how it is licensed.
+idc, just do whatever you want
 
 ## Project status
 If you have run out of energy or time for your project, put a note at the top of the README saying that development has slowed down or stopped completely. Someone may choose to fork your project or volunteer to step in as a maintainer or owner, allowing your project to keep going. You can also make an explicit request for maintainers.
